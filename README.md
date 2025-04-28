@@ -28,8 +28,8 @@ I love working on **full-stack development**, **data science**, and exploring in
 
 ## Let's Connect<br/>
 
-- [LinkedIn]([https://www.linkedin.com/in/srimayee-bhattacharyya](https://www.linkedin.com/in/srimayee-bhattacharyya-319463289/))<br/>
-- [GitHub]([https://github.com/SrimayeeBhattacharyya](https://github.com/srimayeebhattacharyya))<br/>
+- [LinkedIn](https://www.linkedin.com/in/srimayee-bhattacharyya-319463289/)
+- [GitHub](https://github.com/srimayeebhattacharyya)
 - Email: srimayeebhattacharyya.11sc.2020@gmail.com<br/>
 
 Feel free to connect with me if you have any questions, want to collaborate, or just want to chat about tech!
