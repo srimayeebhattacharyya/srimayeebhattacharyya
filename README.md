@@ -26,6 +26,8 @@ I love working on **full-stack development**, **data science**, and exploring in
 - Continue advancing my skills in **backend development** and **data science**.<br/>
 - Continue working on ways to use **technology** in various real world issues.<br/>
 
+### ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 ## Let's Connect<br/>
 
 - [LinkedIn](https://www.linkedin.com/in/srimayee-bhattacharyya-319463289/)
