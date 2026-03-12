@@ -5,10 +5,10 @@ I love working on **full-stack development**, **data science**, and exploring in
 
 ### Skills<br/>
 
-- **Programming Languages**: Python, Java, C, HTML, CSS, SQL<br/>
-- **Frameworks & Tools**:  Django , VS Code <br/>
-- **Web Development**: Frontend (HTML, CSS) and Backend (Flask,Django, Python)<br/>
-- **Data Science**: Data Cleaning, Analysis<br/>
+- **Programming Languages**: Python, Java, C<br/>
+- **Frameworks & Tools**:  Django , VS Code ,SQL,HTML,CSS,JS,NestJs,TS<br/>
+- **Web Development**: Frontend (HTML, CSS) and Backend (Flask,Django, Nestjs)<br/>
+- **Data Science**: pandas<br/>
 
 ### Areas of Interest<br/>
 
